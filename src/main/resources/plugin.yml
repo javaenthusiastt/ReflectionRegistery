@@ -1,0 +1,4 @@
+name: ProductivePlugin
+version: '1.0'
+main: me.liam.productiveplugin.Main
+api-version: '1.20'
